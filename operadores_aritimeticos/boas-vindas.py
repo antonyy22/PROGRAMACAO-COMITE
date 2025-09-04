@@ -1,4 +1,4 @@
-# Coleta das variaveis
+#Coleta das variaveis
 nome= input ("informe o seu nome -> ")
 idade = int (input ("Informe a sua idade -> "))
 
